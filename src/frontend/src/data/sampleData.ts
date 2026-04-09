@@ -283,10 +283,7 @@ export const contactInfo: ContactInfo = {
   address: "22H8+5G Navi Mumbai, Maharashtra",
   phone: "09082530249",
   email: "hello@missmomo.in",
-  hours: [
-    { days: "Sunday – Friday", hours: "10:00 AM – 9:00 PM" },
-    { days: "Saturday", hours: "9:00 AM – 10:00 PM" },
-  ],
+  hours: [{ days: "All Days", hours: "5:00 PM – 11:30 PM" }],
   googleMapsUrl:
     "https://www.google.com/maps/place/Miss+momos/@19.0281063,73.0164081,18z/data=!4m15!1m8!3m7!1s0x3be7c300534fd649:0x508218d2b6495dfe!2sMiss+momos!8m2!3d19.0279153!4d73.0163142!10e9!16s%2Fg%2F11wtvvxn_r!3m5!1s0x3be7c300534fd649:0x508218d2b6495dfe!8m2!3d19.0279153!4d73.0163142!16s%2Fg%2F11wtvvxn_r?entry=ttu&g_ep=EgoyMDI2MDQwNi4wIKXMDSoASAFQAw%3D%3D",
   socialLinks: {

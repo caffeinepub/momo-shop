@@ -1,0 +1,24 @@
+{
+  "overview": "A professional momo shop website demo showcasing a local Nepalese restaurant. Features a full digital menu, hero branding, customer testimonials, location/hours info, and strong call-to-action buttons — built to help pitch web presence to a local business owner.",
+  "features": [
+    "Hero section with restaurant branding and Order Now CTA",
+    "Digital menu with category tabs (Momos, Curries, Street Food, Drinks, Desserts)",
+    "Food photography with dish names, descriptions, prices, and dietary labels",
+    "Customer testimonials with 5-star ratings",
+    "Location, hours, and clickable contact info",
+    "Contact form for catering and bulk orders",
+    "Newsletter signup in footer",
+    "Mobile-first responsive design"
+  ],
+  "category": "showcase",
+  "tags": [
+    "restaurant",
+    "momo",
+    "food",
+    "nepalese",
+    "menu",
+    "showcase",
+    "business"
+  ],
+  "last_updated": "2026-04-09T09:19:03.180Z"
+}

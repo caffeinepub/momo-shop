@@ -84,7 +84,7 @@ export function AboutSection() {
             <p className="text-muted-foreground font-body text-base leading-relaxed">
               Our founder brought her family's treasured Himalayan recipes to
               Navi Mumbai, adapting them with love for local palates while
-              preserving every ounce of authenticity. From Kharghar to the whole
+              preserving every ounce of authenticity. From Nerul to the whole
               city — each momo carries that heritage forward.
             </p>
 
